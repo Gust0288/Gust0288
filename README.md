@@ -1,6 +1,6 @@
-Hi, i'm Gustav
+<h1> Hi, i'm Gustav </h1>
 
-I am currently studying Web Development at KEA, with a focus on Full stack development.
+I am currently studying Web Development at KEA with a focus on Full stack development.
 
 
 ## 🌐 Socials:
